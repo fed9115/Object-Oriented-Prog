@@ -1,0 +1,13 @@
+Put detailed information about all extra credit enhancements here.  
+
+1. When you press P (means pause) in enhanced mode, the game pauses.
+2. When you press O in enhanced mode, the game starts again.
+3. Add a new two player mode with two ships and 6 lives.
+4. Redesign the shape of Ship in enhanced mode.
+5. Redesign the flame of this kind of Ship as well.
+6. Redesign the shape of alien ship.
+7. Redesign the shape of alien ship's bullets. (Rectangle)
+8. Redesign the Ship's bullets. (As a Kite shape)
+9. When your scores are more the 500, you can press C on the keyboard, and then you can remove all the asteroids, alien ships and bullets on the screen. Then you can keep your current scores and you have to go back to level one as a cost.
+10. Mark the highest scores the player have got in the current level.
+11. Add one life when level + 1.
